@@ -14,7 +14,7 @@
      <form name="phoneNum" action="servlets/Servlet" method="post">
        姓名:<input name="name" type="text"><br>
        电话:<input name="phone" type="text">(格式为ddd-dddd-dddd)<br>
-       <input type="submit" value="提交">
+       <input type="submit" value="提交w">
      </form>
   </body>
 </html>
