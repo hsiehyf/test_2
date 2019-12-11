@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="javaweb_test3:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/javaweb_test3_war</output-path>
+    <root id="archive" name="javaweb_test3_war.war">
+      <element id="artifact" artifact-name="javaweb_test3:war exploded" />
+    </root>
+  </artifact>
+</component>
